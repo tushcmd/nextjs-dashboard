@@ -1,2 +1,5 @@
 # nextjs-dashboard
 I am learning NextJS , It's fun.
+
+## Projects from now on
+I hope to finish this and create my portfolio alongside a list of projects.
